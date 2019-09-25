@@ -10,6 +10,15 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "5 Motor Controller Board",
+                    "x": 147,
+                    "y": 115,
+                    "uniqueID": 796541,
+                    "projectID": "200385438",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,

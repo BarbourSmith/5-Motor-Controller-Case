@@ -464,6 +464,27 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 629,
+                    "y": 238,
+                    "uniqueID": 203024,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -20
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -518,6 +539,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 603458
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 898202,
+                    "ap2ID": 203024
                 }
             ],
             "fileTypeVersion": 1

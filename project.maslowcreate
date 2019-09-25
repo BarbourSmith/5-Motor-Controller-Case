@@ -2,6 +2,115 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Top",
+            "x": 129,
+            "y": 128,
+            "uniqueID": 250695,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 167,
+                    "y": 115,
+                    "uniqueID": 125896,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 100
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 100
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 378,
+                    "y": 126,
+                    "uniqueID": 515487,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 589,
+                    "y": 125,
+                    "uniqueID": 224016,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 21
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 125896,
+                    "ap2ID": 515487
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 515487,
+                    "ap2ID": 224016
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 224016
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Tabs",
+            "x": 140,
+            "y": 203,
+            "uniqueID": 318071,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "5 Motor Controller Case",
             "x": 0,
             "y": 0,
@@ -12,11 +121,45 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "5 Motor Controller Board",
-                    "x": 147,
-                    "y": 115,
+                    "x": 131,
+                    "y": 65,
                     "uniqueID": 796541,
                     "projectID": "200385438",
                     "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Top",
+                    "x": 129,
+                    "y": 128,
+                    "uniqueID": 250695,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Tabs",
+                    "x": 140,
+                    "y": 203,
+                    "uniqueID": 318071,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 314,
+                    "y": 154,
+                    "uniqueID": 502202,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 520471",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 520471",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",

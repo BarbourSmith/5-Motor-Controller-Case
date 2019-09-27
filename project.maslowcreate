@@ -16,37 +16,12 @@
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "Sheet Metal Tab Take Two",
+                    "name": "Molecule",
                     "x": 132,
                     "y": 123,
                     "uniqueID": 602550,
                     "projectID": "211329461",
-                    "ioValues": [
-                        {
-                            "name": "Tab Length",
-                            "ioValue": 35
-                        },
-                        {
-                            "name": "Tab Height",
-                            "ioValue": 15
-                        },
-                        {
-                            "name": "Interior Radius",
-                            "ioValue": 5
-                        },
-                        {
-                            "name": "Metal Thickness",
-                            "ioValue": 3
-                        },
-                        {
-                            "name": "Bent",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "Cut Away Geometry",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Input",
@@ -69,10 +44,6 @@
                     "uniqueID": 304645,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -93,10 +64,6 @@
                     "y": 115,
                     "uniqueID": 747253,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -169,10 +136,6 @@
                     "uniqueID": 266295,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 50
                         },
@@ -193,10 +156,6 @@
                     "y": 260,
                     "uniqueID": 855340,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 50
@@ -265,7 +224,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 152,
                     "ioValues": []
                 }
             ],
@@ -293,12 +252,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 602550,
                     "ap2ID": 304645
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Bent",
-                    "ap1ID": 799653,
-                    "ap2ID": 602550
                 },
                 {
                     "ap1Name": "geometry",
@@ -408,7 +361,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 152,
                     "ioValues": []
                 }
             ],
@@ -513,11 +466,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 920321",
+                            "name": "3D shape 950673",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 950673",
+                            "name": "3D shape 920321",
                             "ioValue": 10
                         },
                         {
@@ -547,11 +500,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 175971",
+                            "name": "3D shape 983078",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 983078",
+                            "name": "3D shape 175971",
                             "ioValue": 10
                         },
                         {
@@ -590,7 +543,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 152,
                     "ioValues": []
                 }
             ],

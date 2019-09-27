@@ -6,40 +6,19 @@
             "x": 134,
             "y": 132,
             "uniqueID": 318071,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Folded",
+                    "ioValue": 1
+                }
+            ],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "Sheet Metal Tab",
-                    "x": 141,
-                    "y": 123,
-                    "uniqueID": 340695,
-                    "projectID": "197395697",
-                    "ioValues": [
-                        {
-                            "name": "Radius",
-                            "ioValue": 5
-                        },
-                        {
-                            "name": "Thickness",
-                            "ioValue": 3
-                        },
-                        {
-                            "name": "Length",
-                            "ioValue": 35
-                        },
-                        {
-                            "name": "Tab Height",
-                            "ioValue": 15
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
                     "name": "Sheet Metal Tab Take Two",
-                    "x": 174,
-                    "y": 230,
+                    "x": 132,
+                    "y": 123,
                     "uniqueID": 602550,
                     "projectID": "211329461",
                     "ioValues": [
@@ -58,10 +37,19 @@
                         {
                             "name": "Metal Thickness",
                             "ioValue": 3
-                        },
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Folded",
+                    "x": 51,
+                    "y": 200,
+                    "uniqueID": 799653,
+                    "ioValues": [
                         {
-                            "name": "Bent",
-                            "ioValue": 1
+                            "name": "default value",
+                            "ioValue": "1"
                         }
                     ]
                 },
@@ -237,26 +225,32 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 340695,
-                    "ap2ID": 304645
+                    "ap1ID": 602550,
+                    "ap2ID": 855340
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 340695,
-                    "ap2ID": 747253
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 340695,
+                    "ap1ID": 602550,
                     "ap2ID": 266295
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 340695,
-                    "ap2ID": 855340
+                    "ap1ID": 602550,
+                    "ap2ID": 747253
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 602550,
+                    "ap2ID": 304645
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Bent",
+                    "ap1ID": 799653,
+                    "ap2ID": 602550
                 },
                 {
                     "ap1Name": "geometry",
@@ -410,12 +404,30 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Constant",
+                    "name": "Folded",
+                    "x": 45,
+                    "y": 175,
+                    "uniqueID": 742634,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Tabs",
                     "x": 134,
                     "y": 132,
                     "uniqueID": 318071,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Folded",
+                            "ioValue": 1
+                        }
+                    ]
                 },
                 {
                     "atomType": "Molecule",
@@ -534,6 +546,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 796541,
                     "ap2ID": 983012
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "Folded",
+                    "ap1ID": 742634,
+                    "ap2ID": 318071
                 },
                 {
                     "ap1Name": "Geometry",

@@ -37,6 +37,10 @@
                         {
                             "name": "Metal Thickness",
                             "ioValue": 3
+                        },
+                        {
+                            "name": "Bent",
+                            "ioValue": 1
                         }
                     ]
                 },
@@ -49,7 +53,7 @@
                     "ioValues": [
                         {
                             "name": "default value",
-                            "ioValue": "1"
+                            "ioValue": 10
                         }
                     ]
                 },

@@ -41,6 +41,10 @@
                         {
                             "name": "Bent",
                             "ioValue": 0
+                        },
+                        {
+                            "name": "Cut Away Geometry",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -65,6 +69,10 @@
                     "uniqueID": 304645,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -85,6 +93,10 @@
                     "y": 115,
                     "uniqueID": 747253,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -107,6 +119,10 @@
                     "uniqueID": 124197,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": -50
                         },
@@ -127,6 +143,10 @@
                     "y": 111,
                     "uniqueID": 242230,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": -50
@@ -149,6 +169,10 @@
                     "uniqueID": 266295,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 50
                         },
@@ -169,6 +193,10 @@
                     "y": 260,
                     "uniqueID": 855340,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 50
@@ -192,6 +220,22 @@
                     "ioValues": [
                         {
                             "name": "3D shape 839711",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 789032",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 255538",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 361842",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 274413",
                             "ioValue": ""
                         },
                         {
@@ -461,6 +505,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 950673",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "3D shape 983231",
                             "ioValue": 10
                         },
@@ -491,6 +539,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 983078",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "3D shape 215783",
                             "ioValue": 10
                         },
@@ -516,6 +568,10 @@
                     "y": 238,
                     "uniqueID": 203024,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 0

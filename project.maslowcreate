@@ -9,19 +9,44 @@
             "ioValues": [
                 {
                     "name": "Folded",
-                    "ioValue": 0
+                    "ioValue": 1
                 }
             ],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "Molecule",
+                    "name": "Sheet Metal Tab Take Two",
                     "x": 132,
                     "y": 123,
                     "uniqueID": 602550,
                     "projectID": "211329461",
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Tab Length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Tab Height",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Interior Radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Metal Thickness",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Bent",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Cut Away Geometry",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Input",
@@ -44,6 +69,10 @@
                     "uniqueID": 304645,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -64,6 +93,10 @@
                     "y": 115,
                     "uniqueID": 747253,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -136,6 +169,10 @@
                     "uniqueID": 266295,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 50
                         },
@@ -156,6 +193,10 @@
                     "y": 260,
                     "uniqueID": 855340,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 50
@@ -224,7 +265,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 152,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -361,7 +402,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 152,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -426,7 +467,7 @@
                     "ioValues": [
                         {
                             "name": "Folded",
-                            "ioValue": 0
+                            "ioValue": 1
                         }
                     ]
                 },
@@ -543,7 +584,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 152,
+                    "y": 164,
                     "ioValues": []
                 }
             ],

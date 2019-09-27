@@ -36,6 +36,36 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Sheet Metal Tab Take Two",
+                    "x": 174,
+                    "y": 230,
+                    "uniqueID": 602550,
+                    "projectID": "211329461",
+                    "ioValues": [
+                        {
+                            "name": "Tab Length",
+                            "ioValue": 35
+                        },
+                        {
+                            "name": "Tab Height",
+                            "ioValue": 15
+                        },
+                        {
+                            "name": "Interior Radius",
+                            "ioValue": 5
+                        },
+                        {
+                            "name": "Metal Thickness",
+                            "ioValue": 3
+                        },
+                        {
+                            "name": "Bent",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 328,

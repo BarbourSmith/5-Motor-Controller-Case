@@ -64,33 +64,6 @@ undefined
 undefined
 
 
-## Z-axis Motor Driver
-
-
-## JST XH 8 Place Right Angle
-
-
-## Body
-
-
-## Pins
-
-
-undefined
-
-
-## DRV8873 H-Bridge
-
-
-## Body
-
-
-## Legs
-
-
-undefined
-
-
 ## Motor Driver Sub Assembly
 
 
@@ -116,6 +89,42 @@ undefined
 
 
 ## Pins
+
+
+undefined
+
+
+## 0805 Parts
+
+
+## 0805 package
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+## 1206 Parts
+
+
+undefined
+
+
+## Large Capacitor
 
 
 undefined

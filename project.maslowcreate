@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Folded",
-                    "ioValue": 1
+                    "ioValue": 0
                 }
             ],
             "topLevel": false,
@@ -40,7 +40,7 @@
                         },
                         {
                             "name": "Bent",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -416,7 +416,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -429,7 +429,7 @@
                     "ioValues": [
                         {
                             "name": "Folded",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },

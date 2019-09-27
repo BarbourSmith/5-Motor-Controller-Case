@@ -175,9 +175,6 @@ undefined
 ## Sheet Metal Tab Take Two
 
 
-## Sheet Metal Tab
-
-
 ## Top
 
 

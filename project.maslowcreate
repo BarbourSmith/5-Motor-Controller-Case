@@ -4,7 +4,7 @@
             "atomType": "Molecule",
             "name": "Tabs",
             "x": 117,
-            "y": 134,
+            "y": 133,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -28,7 +28,7 @@
                         },
                         {
                             "name": "Tab Height",
-                            "ioValue": 30
+                            "ioValue": 15
                         },
                         {
                             "name": "Interior Radius",
@@ -401,8 +401,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "5 Motor Controller Board",
-                    "x": 129,
-                    "y": 60,
+                    "x": 121,
+                    "y": 63,
                     "uniqueID": 796541,
                     "projectID": "200385438",
                     "ioValues": []
@@ -411,7 +411,7 @@
                     "atomType": "Molecule",
                     "name": "Tabs",
                     "x": 117,
-                    "y": 134,
+                    "y": 133,
                     "uniqueID": 318071,
                     "ioValues": [
                         {

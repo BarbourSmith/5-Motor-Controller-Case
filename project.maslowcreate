@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 122,
-            "y": 130,
+            "x": 117,
+            "y": 134,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -17,26 +17,26 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sheet Metal Tab Take Two",
-                    "x": 119,
-                    "y": 131,
-                    "uniqueID": 602550,
+                    "x": 147,
+                    "y": 153,
+                    "uniqueID": 414335,
                     "projectID": "211329461",
                     "ioValues": [
                         {
                             "name": "Tab Length",
-                            "ioValue": 10
+                            "ioValue": 35
                         },
                         {
                             "name": "Tab Height",
-                            "ioValue": 10
+                            "ioValue": 30
                         },
                         {
                             "name": "Interior Radius",
-                            "ioValue": 10
+                            "ioValue": 3
                         },
                         {
                             "name": "Metal Thickness",
-                            "ioValue": 10
+                            "ioValue": 3
                         },
                         {
                             "name": "Bent",
@@ -65,10 +65,6 @@
                     "uniqueID": 304645,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -89,10 +85,6 @@
                     "y": 115,
                     "uniqueID": 747253,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -115,10 +107,6 @@
                     "uniqueID": 124197,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": -50
                         },
@@ -139,10 +127,6 @@
                     "y": 111,
                     "uniqueID": 242230,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": -50
@@ -165,10 +149,6 @@
                     "uniqueID": 266295,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 50
                         },
@@ -189,10 +169,6 @@
                     "y": 260,
                     "uniqueID": 855340,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 50
@@ -219,22 +195,6 @@
                             "ioValue": ""
                         },
                         {
-                            "name": "3D shape 789032",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 255538",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 361842",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 274413",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "3D shape 839711",
                             "ioValue": 10
                         },
@@ -258,36 +218,6 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Sheet Metal Tab Take Two",
-                    "x": 909,
-                    "y": 216,
-                    "uniqueID": 414335,
-                    "projectID": "211329461",
-                    "ioValues": [
-                        {
-                            "name": "Tab Length",
-                            "ioValue": 35
-                        },
-                        {
-                            "name": "Tab Height",
-                            "ioValue": 30
-                        },
-                        {
-                            "name": "Interior Radius",
-                            "ioValue": 3
-                        },
-                        {
-                            "name": "Metal Thickness",
-                            "ioValue": 3
-                        },
-                        {
-                            "name": "Bent",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 954,
@@ -299,32 +229,32 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 602550,
-                    "ap2ID": 855340
+                    "ap1ID": 414335,
+                    "ap2ID": 304645
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 602550,
-                    "ap2ID": 266295
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 602550,
+                    "ap1ID": 414335,
                     "ap2ID": 747253
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 602550,
-                    "ap2ID": 304645
+                    "ap1ID": 414335,
+                    "ap2ID": 266295
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 414335,
+                    "ap2ID": 855340
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Bent",
                     "ap1ID": 799653,
-                    "ap2ID": 602550
+                    "ap2ID": 414335
                 },
                 {
                     "ap1Name": "geometry",
@@ -480,8 +410,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 122,
-                    "y": 130,
+                    "x": 117,
+                    "y": 134,
                     "uniqueID": 318071,
                     "ioValues": [
                         {
@@ -531,10 +461,6 @@
                             "ioValue": ""
                         },
                         {
-                            "name": "3D shape 950673",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "3D shape 983231",
                             "ioValue": 10
                         },
@@ -565,10 +491,6 @@
                             "ioValue": ""
                         },
                         {
-                            "name": "3D shape 983078",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "3D shape 215783",
                             "ioValue": 10
                         },
@@ -594,10 +516,6 @@
                     "y": 238,
                     "uniqueID": 203024,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 0

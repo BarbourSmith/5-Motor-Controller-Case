@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 130,
-            "y": 140,
+            "x": 129,
+            "y": 139,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -264,8 +264,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sheet Metal Tab Take Two",
-                    "x": 873,
-                    "y": 221,
+                    "x": 912,
+                    "y": 220,
                     "uniqueID": 414335,
                     "projectID": "211329461",
                     "ioValues": [
@@ -495,8 +495,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 130,
-                    "y": 140,
+                    "x": 129,
+                    "y": 139,
                     "uniqueID": 318071,
                     "ioValues": [
                         {

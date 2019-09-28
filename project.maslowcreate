@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 121,
-            "y": 134,
+            "x": 122,
+            "y": 130,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -17,8 +17,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sheet Metal Tab Take Two",
-                    "x": 128,
-                    "y": 124,
+                    "x": 122,
+                    "y": 126,
                     "uniqueID": 602550,
                     "projectID": "211329461",
                     "ioValues": [
@@ -39,10 +39,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "Cut Away Geometry",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "Bent",
                             "ioValue": 0
                         }
@@ -51,8 +47,8 @@
                 {
                     "atomType": "Input",
                     "name": "Folded",
-                    "x": 47,
-                    "y": 206,
+                    "x": 43,
+                    "y": 212,
                     "uniqueID": 799653,
                     "ioValues": [
                         {
@@ -286,10 +282,6 @@
                             "ioValue": 3
                         },
                         {
-                            "name": "Cut Away Geometry",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "Bent",
                             "ioValue": 1
                         }
@@ -488,8 +480,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 121,
-                    "y": 134,
+                    "x": 122,
+                    "y": 130,
                     "uniqueID": 318071,
                     "ioValues": [
                         {

@@ -3,13 +3,13 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 132,
-            "y": 125,
+            "x": 130,
+            "y": 140,
             "uniqueID": 318071,
             "ioValues": [
                 {
                     "name": "Folded",
-                    "ioValue": 1
+                    "ioValue": 0
                 }
             ],
             "topLevel": false,
@@ -17,7 +17,7 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sheet Metal Tab Take Two",
-                    "x": 132,
+                    "x": 133,
                     "y": 123,
                     "uniqueID": 602550,
                     "projectID": "211329461",
@@ -44,7 +44,7 @@
                         },
                         {
                             "name": "Bent",
-                            "ioValue": 1
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -262,6 +262,40 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Sheet Metal Tab Take Two",
+                    "x": 873,
+                    "y": 221,
+                    "uniqueID": 414335,
+                    "projectID": "211329461",
+                    "ioValues": [
+                        {
+                            "name": "Tab Length",
+                            "ioValue": 30
+                        },
+                        {
+                            "name": "Tab Height",
+                            "ioValue": 30
+                        },
+                        {
+                            "name": "Interior Radius",
+                            "ioValue": 3
+                        },
+                        {
+                            "name": "Metal Thickness",
+                            "ioValue": 3
+                        },
+                        {
+                            "name": "Cut Away Geometry",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Bent",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -293,12 +327,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 602550,
                     "ap2ID": 304645
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Bent",
-                    "ap1ID": 799653,
-                    "ap2ID": 602550
                 },
                 {
                     "ap1Name": "geometry",
@@ -460,20 +488,20 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 132,
-                    "y": 125,
+                    "x": 130,
+                    "y": 140,
                     "uniqueID": 318071,
                     "ioValues": [
                         {
                             "name": "Folded",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },

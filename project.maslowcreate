@@ -3,13 +3,13 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 124,
-            "y": 137,
+            "x": 121,
+            "y": 134,
             "uniqueID": 318071,
             "ioValues": [
                 {
                     "name": "Folded",
-                    "ioValue": 1
+                    "ioValue": 0
                 }
             ],
             "topLevel": false,
@@ -17,8 +17,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sheet Metal Tab Take Two",
-                    "x": 133,
-                    "y": 123,
+                    "x": 128,
+                    "y": 124,
                     "uniqueID": 602550,
                     "projectID": "211329461",
                     "ioValues": [
@@ -44,15 +44,15 @@
                         },
                         {
                             "name": "Bent",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Input",
                     "name": "Folded",
-                    "x": 51,
-                    "y": 200,
+                    "x": 47,
+                    "y": 206,
                     "uniqueID": 799653,
                     "ioValues": [
                         {
@@ -264,14 +264,14 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sheet Metal Tab Take Two",
-                    "x": 912,
-                    "y": 220,
+                    "x": 909,
+                    "y": 216,
                     "uniqueID": 414335,
                     "projectID": "211329461",
                     "ioValues": [
                         {
                             "name": "Tab Length",
-                            "ioValue": 30
+                            "ioValue": 35
                         },
                         {
                             "name": "Tab Height",
@@ -486,6 +486,19 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Tabs",
+                    "x": 121,
+                    "y": 134,
+                    "uniqueID": 318071,
+                    "ioValues": [
+                        {
+                            "name": "Folded",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Constant",
                     "name": "Folded",
                     "x": 49,
@@ -494,19 +507,6 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Tabs",
-                    "x": 124,
-                    "y": 137,
-                    "uniqueID": 318071,
-                    "ioValues": [
-                        {
-                            "name": "Folded",
                             "ioValue": 1
                         }
                     ]
@@ -642,12 +642,6 @@
                     "ap2ID": 983012
                 },
                 {
-                    "ap1Name": "number",
-                    "ap2Name": "Folded",
-                    "ap1ID": 742634,
-                    "ap2ID": 318071
-                },
-                {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 983078",
                     "ap1ID": 318071,
@@ -658,6 +652,12 @@
                     "ap2Name": "3D shape 950673",
                     "ap1ID": 318071,
                     "ap2ID": 603458
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "Folded",
+                    "ap1ID": 742634,
+                    "ap2ID": 318071
                 },
                 {
                     "ap1Name": "Geometry",

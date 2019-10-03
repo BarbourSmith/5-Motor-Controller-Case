@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Folded",
-                    "ioValue": 0
+                    "ioValue": 1
                 }
             ],
             "topLevel": false,
@@ -40,7 +40,7 @@
                         },
                         {
                             "name": "Bent",
-                            "ioValue": 0
+                            "ioValue": 1
                         },
                         {
                             "name": "Cut Away Geometry",
@@ -420,20 +420,20 @@
                     "ioValues": [
                         {
                             "name": "Folded",
-                            "ioValue": 0
+                            "ioValue": 1
                         }
                     ]
                 },
                 {
                     "atomType": "Constant",
                     "name": "Folded",
-                    "x": 49,
-                    "y": 178,
+                    "x": 46,
+                    "y": 177,
                     "uniqueID": 742634,
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 0
+                            "ioValue": 1
                         }
                     ]
                 },

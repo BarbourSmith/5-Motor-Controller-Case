@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Folded",
-                    "ioValue": 1
+                    "ioValue": 0
                 }
             ],
             "topLevel": false,
@@ -40,7 +40,11 @@
                         },
                         {
                             "name": "Bent",
-                            "ioValue": 1
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "Cut Away Geometry",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -220,7 +224,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 954,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -363,7 +367,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 954,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -416,7 +420,7 @@
                     "ioValues": [
                         {
                             "name": "Folded",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -429,7 +433,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 1
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -533,7 +537,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 954,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }

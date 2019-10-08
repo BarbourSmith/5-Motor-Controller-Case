@@ -3,7 +3,7 @@
         {
             "atomType": "Molecule",
             "name": "Tab",
-            "x": 194,
+            "x": 190,
             "y": 253,
             "uniqueID": 893567,
             "ioValues": [
@@ -154,7 +154,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1059,
+                    "x": 936,
                     "y": 164,
                     "ioValues": []
                 }
@@ -190,8 +190,8 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 132,
-            "y": 135,
+            "x": 137,
+            "y": 142,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -217,7 +217,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tab",
-                    "x": 194,
+                    "x": 190,
                     "y": 253,
                     "uniqueID": 893567,
                     "ioValues": [
@@ -422,7 +422,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1059,
+                    "x": 936,
                     "y": 164,
                     "ioValues": []
                 }
@@ -535,7 +535,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1059,
+                    "x": 936,
                     "y": 164,
                     "ioValues": []
                 }
@@ -595,8 +595,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 132,
-                    "y": 135,
+                    "x": 137,
+                    "y": 142,
                     "uniqueID": 318071,
                     "ioValues": [
                         {
@@ -693,7 +693,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1059,
+                    "x": 936,
                     "y": 164,
                     "ioValues": []
                 }

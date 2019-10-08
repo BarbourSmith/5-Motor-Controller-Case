@@ -135,19 +135,19 @@
                     "ioValues": [
                         {
                             "name": "Length",
-                            "ioValue": 30
+                            "ioValue": 10
                         },
                         {
                             "name": "Thickness",
-                            "ioValue": 3
+                            "ioValue": 10
                         },
                         {
                             "name": "Interior Radius",
-                            "ioValue": 3
+                            "ioValue": 10
                         },
                         {
                             "name": "Bent?",
-                            "ioValue": 10
+                            "ioValue": 1
                         }
                     ]
                 },

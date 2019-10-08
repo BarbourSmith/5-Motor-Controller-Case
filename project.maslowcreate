@@ -6,9 +6,155 @@
             "x": 181,
             "y": 238,
             "uniqueID": 893567,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Interior Radius",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Bent",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Length",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Input552117",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Thickness",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Bent",
+                    "x": 76,
+                    "y": 82,
+                    "uniqueID": 739888,
+                    "ioValues": [
+                        {
+                            "name": "default value",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Interior Radius",
+                    "x": 79,
+                    "y": 132,
+                    "uniqueID": 898465,
+                    "ioValues": [
+                        {
+                            "name": "default value",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 74,
+                    "y": 185,
+                    "uniqueID": 254680,
+                    "ioValues": [
+                        {
+                            "name": "default value",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Thickness",
+                    "x": 75,
+                    "y": 235,
+                    "uniqueID": 431350,
+                    "ioValues": [
+                        {
+                            "name": "default value",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 283,
+                    "y": 72,
+                    "uniqueID": 588165,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Input552117",
+                    "x": 167,
+                    "y": 271,
+                    "uniqueID": 508359,
+                    "ioValues": [
+                        {
+                            "name": "default value",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 401,
+                    "y": 73,
+                    "uniqueID": 984057,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Metal Bend",
+                    "x": 559,
+                    "y": 208,
+                    "uniqueID": 382438,
+                    "projectID": "213500755",
+                    "ioValues": [
+                        {
+                            "name": "Length",
+                            "ioValue": 30
+                        },
+                        {
+                            "name": "Thickness",
+                            "ioValue": 3
+                        },
+                        {
+                            "name": "Interior Radius",
+                            "ioValue": 3
+                        },
+                        {
+                            "name": "Attached Geometry",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Bent?",
+                            "ioValue": 10
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -17,7 +163,32 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Interior Radius",
+                    "ap1ID": 898465,
+                    "ap2ID": 382438
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Length",
+                    "ap1ID": 254680,
+                    "ap2ID": 382438
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Thickness",
+                    "ap1ID": 431350,
+                    "ap2ID": 382438
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 588165,
+                    "ap2ID": 984057
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -87,7 +258,28 @@
                     "x": 181,
                     "y": 238,
                     "uniqueID": 893567,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Interior Radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Bent",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Input552117",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Thickness",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Rotate",

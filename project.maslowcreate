@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Tab",
-            "x": 200,
-            "y": 256,
+            "x": 194,
+            "y": 253,
             "uniqueID": 893567,
             "ioValues": [
                 {
@@ -128,8 +128,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Metal Bend",
-                    "x": 559,
-                    "y": 208,
+                    "x": 560,
+                    "y": 207,
                     "uniqueID": 382438,
                     "projectID": "213500755",
                     "ioValues": [
@@ -190,8 +190,8 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 129,
-            "y": 140,
+            "x": 132,
+            "y": 135,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -217,8 +217,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tab",
-                    "x": 200,
-                    "y": 256,
+                    "x": 194,
+                    "y": 253,
                     "uniqueID": 893567,
                     "ioValues": [
                         {
@@ -595,8 +595,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 129,
-                    "y": 140,
+                    "x": 132,
+                    "y": 135,
                     "uniqueID": 318071,
                     "ioValues": [
                         {

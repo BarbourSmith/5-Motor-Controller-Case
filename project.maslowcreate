@@ -3,16 +3,16 @@
         {
             "atomType": "Molecule",
             "name": "Tab",
-            "x": 181,
-            "y": 238,
+            "x": 184,
+            "y": 242,
             "uniqueID": 893567,
             "ioValues": [
                 {
-                    "name": "Interior Radius",
+                    "name": "Bent",
                     "ioValue": 10
                 },
                 {
-                    "name": "Bent",
+                    "name": "Interior Radius",
                     "ioValue": 10
                 },
                 {
@@ -20,11 +20,11 @@
                     "ioValue": 10
                 },
                 {
-                    "name": "Input552117",
+                    "name": "Thickness",
                     "ioValue": 10
                 },
                 {
-                    "name": "Thickness",
+                    "name": "Input552117",
                     "ioValue": 10
                 }
             ],
@@ -146,10 +146,6 @@
                             "ioValue": 3
                         },
                         {
-                            "name": "Attached Geometry",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "Bent?",
                             "ioValue": 10
                         }
@@ -158,8 +154,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1059,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -194,8 +190,8 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 137,
-            "y": 131,
+            "x": 133,
+            "y": 132,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -255,16 +251,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tab",
-                    "x": 181,
-                    "y": 238,
+                    "x": 184,
+                    "y": 242,
                     "uniqueID": 893567,
                     "ioValues": [
                         {
-                            "name": "Interior Radius",
+                            "name": "Bent",
                             "ioValue": 10
                         },
                         {
-                            "name": "Bent",
+                            "name": "Interior Radius",
                             "ioValue": 10
                         },
                         {
@@ -272,11 +268,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "Input552117",
+                            "name": "Thickness",
                             "ioValue": 10
                         },
                         {
-                            "name": "Thickness",
+                            "name": "Input552117",
                             "ioValue": 10
                         }
                     ]
@@ -288,6 +284,10 @@
                     "y": 60,
                     "uniqueID": 304645,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -310,6 +310,10 @@
                     "uniqueID": 747253,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -330,6 +334,10 @@
                     "y": 41,
                     "uniqueID": 124197,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": -50
@@ -352,6 +360,10 @@
                     "uniqueID": 242230,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": -50
                         },
@@ -373,6 +385,10 @@
                     "uniqueID": 266295,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 50
                         },
@@ -393,6 +409,10 @@
                     "y": 260,
                     "uniqueID": 855340,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 50
@@ -436,8 +456,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1059,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -579,8 +599,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1059,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -639,8 +659,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 137,
-                    "y": 131,
+                    "x": 133,
+                    "y": 132,
                     "uniqueID": 318071,
                     "ioValues": [
                         {
@@ -717,6 +737,10 @@
                     "uniqueID": 203024,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -733,8 +757,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1059,
+                    "y": 164,
                     "ioValues": []
                 }
             ],

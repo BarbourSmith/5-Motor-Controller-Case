@@ -13,7 +13,7 @@
                 },
                 {
                     "name": "Length",
-                    "ioValue": 30
+                    "ioValue": 35
                 },
                 {
                     "name": "Thickness",
@@ -56,7 +56,7 @@
                         },
                         {
                             "name": "y length",
-                            "ioValue": 30
+                            "ioValue": 35
                         }
                     ]
                 },
@@ -95,7 +95,7 @@
                     "ioValues": [
                         {
                             "name": "L",
-                            "ioValue": 30
+                            "ioValue": 35
                         }
                     ],
                     "currentEquation": "L/-2"
@@ -175,7 +175,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -15
+                            "ioValue": -17.5
                         },
                         {
                             "name": "zDist",
@@ -206,7 +206,7 @@
                     "ioValues": [
                         {
                             "name": "Length",
-                            "ioValue": 30
+                            "ioValue": 35
                         },
                         {
                             "name": "Thickness",
@@ -387,7 +387,7 @@
                         },
                         {
                             "name": "Length",
-                            "ioValue": 30
+                            "ioValue": 35
                         },
                         {
                             "name": "Thickness",

@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Tab Height",
-                    "ioValue": 30
+                    "ioValue": 12
                 },
                 {
                     "name": "Bent",
@@ -140,7 +140,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 30
+                            "ioValue": 12
                         }
                     ]
                 },
@@ -226,7 +226,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -395,7 +395,7 @@
                         },
                         {
                             "name": "Tab Height",
-                            "ioValue": 30
+                            "ioValue": 12
                         },
                         {
                             "name": "Bent",
@@ -559,7 +559,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -702,7 +702,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -856,7 +856,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],

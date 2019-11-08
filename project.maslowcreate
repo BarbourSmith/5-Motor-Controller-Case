@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Tab Height",
-                    "ioValue": 12
+                    "ioValue": 10
                 },
                 {
                     "name": "Bent",
@@ -140,7 +140,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 12
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -395,7 +395,7 @@
                         },
                         {
                             "name": "Tab Height",
-                            "ioValue": 12
+                            "ioValue": 10
                         },
                         {
                             "name": "Bent",

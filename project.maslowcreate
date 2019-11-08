@@ -853,6 +853,21 @@
                     ]
                 },
                 {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 886,
+                    "y": 125,
+                    "uniqueID": 442297,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "Metal PCB Guard",
+                        "numberNeeded": 1,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -911,14 +926,20 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 603458
+                    "ap2Name": "geometry",
+                    "ap1ID": 603458,
+                    "ap2ID": 442297
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 898202,
                     "ap2ID": 203024
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 442297
                 }
             ],
             "fileTypeVersion": 1

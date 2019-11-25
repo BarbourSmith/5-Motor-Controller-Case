@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Tab Height",
-                    "ioValue": 10
+                    "ioValue": 30
                 },
                 {
                     "name": "Bent",
@@ -226,7 +226,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -350,8 +350,8 @@
         {
             "atomType": "Molecule",
             "name": "Tabs",
-            "x": 136,
-            "y": 145,
+            "x": 138,
+            "y": 150,
             "uniqueID": 318071,
             "ioValues": [
                 {
@@ -395,7 +395,7 @@
                         },
                         {
                             "name": "Tab Height",
-                            "ioValue": 10
+                            "ioValue": 30
                         },
                         {
                             "name": "Bent",
@@ -559,7 +559,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -702,7 +702,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -761,8 +761,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Tabs",
-                    "x": 136,
-                    "y": 145,
+                    "x": 138,
+                    "y": 150,
                     "uniqueID": 318071,
                     "ioValues": [
                         {
@@ -871,7 +871,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],

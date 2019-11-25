@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Tab",
-            "x": 198,
-            "y": 226,
+            "x": 194,
+            "y": 218,
             "uniqueID": 893567,
             "ioValues": [
                 {
@@ -22,10 +22,6 @@
                 {
                     "name": "Tab Height",
                     "ioValue": 30
-                },
-                {
-                    "name": "Bent",
-                    "ioValue": 1
                 }
             ],
             "topLevel": false,
@@ -140,7 +136,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -184,26 +180,17 @@
                     ]
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Bent",
-                    "x": 527,
-                    "y": 302,
-                    "uniqueID": 739888,
+                    "atomType": "GitHubMolecule",
+                    "name": "Code Bend",
+                    "x": 865,
+                    "y": 232,
+                    "uniqueID": 727146,
+                    "projectID": "223926550",
                     "ioValues": [
                         {
-                            "name": "default value",
+                            "name": "Interior Bend Radius",
                             "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Metal Bend",
-                    "x": 722,
-                    "y": 230,
-                    "uniqueID": 382438,
-                    "projectID": "213500755",
-                    "ioValues": [
+                        },
                         {
                             "name": "Length",
                             "ioValue": 35
@@ -213,12 +200,8 @@
                             "ioValue": 3
                         },
                         {
-                            "name": "Interior Radius",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "Bent?",
-                            "ioValue": 1
+                            "name": "K Factor",
+                            "ioValue": 0.4
                         }
                     ]
                 },
@@ -233,12 +216,6 @@
             "allConnectors": [
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "Interior Radius",
-                    "ap1ID": 898465,
-                    "ap2ID": 382438
-                },
-                {
-                    "ap1Name": "number or geometry",
                     "ap2Name": "R",
                     "ap1ID": 898465,
                     "ap2ID": 873044
@@ -250,16 +227,16 @@
                     "ap2ID": 201300
                 },
                 {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Interior Bend Radius",
+                    "ap1ID": 898465,
+                    "ap2ID": 727146
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 588165,
                     "ap2ID": 984057
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Length",
-                    "ap1ID": 254680,
-                    "ap2ID": 382438
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -275,9 +252,9 @@
                 },
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "Thickness",
-                    "ap1ID": 431350,
-                    "ap2ID": 382438
+                    "ap2Name": "Length",
+                    "ap1ID": 254680,
+                    "ap2ID": 727146
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -296,6 +273,12 @@
                     "ap2Name": "T",
                     "ap1ID": 431350,
                     "ap2ID": 201300
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Thickness",
+                    "ap1ID": 431350,
+                    "ap2ID": 727146
                 },
                 {
                     "ap1Name": "result",
@@ -329,20 +312,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "Attached Geometry",
+                    "ap2Name": "Attached Tab",
                     "ap1ID": 183910,
-                    "ap2ID": 382438
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Bent?",
-                    "ap1ID": 739888,
-                    "ap2ID": 382438
+                    "ap2ID": 727146
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 382438
+                    "ap1ID": 727146
                 }
             ],
             "fileTypeVersion": 1
@@ -353,32 +330,14 @@
             "x": 138,
             "y": 150,
             "uniqueID": 318071,
-            "ioValues": [
-                {
-                    "name": "Folded",
-                    "ioValue": 1
-                }
-            ],
+            "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
-                    "atomType": "Input",
-                    "name": "Folded",
-                    "x": 43,
-                    "y": 212,
-                    "uniqueID": 799653,
-                    "ioValues": [
-                        {
-                            "name": "default value",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Molecule",
                     "name": "Tab",
-                    "x": 198,
-                    "y": 226,
+                    "x": 194,
+                    "y": 218,
                     "uniqueID": 893567,
                     "ioValues": [
                         {
@@ -396,10 +355,6 @@
                         {
                             "name": "Tab Height",
                             "ioValue": 30
-                        },
-                        {
-                            "name": "Bent",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -564,12 +519,6 @@
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Bent",
-                    "ap1ID": 799653,
-                    "ap2ID": 893567
-                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
@@ -746,30 +695,12 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Constant",
-                    "name": "Folded",
-                    "x": 46,
-                    "y": 177,
-                    "uniqueID": 742634,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
                     "atomType": "Molecule",
                     "name": "Tabs",
                     "x": 138,
                     "y": 150,
                     "uniqueID": 318071,
-                    "ioValues": [
-                        {
-                            "name": "Folded",
-                            "ioValue": 1
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
@@ -887,12 +818,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 796541,
                     "ap2ID": 983012
-                },
-                {
-                    "ap1Name": "number",
-                    "ap2Name": "Folded",
-                    "ap1ID": 742634,
-                    "ap2ID": 318071
                 },
                 {
                     "ap1Name": "Geometry",
